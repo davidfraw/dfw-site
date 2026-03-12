@@ -23,27 +23,27 @@ enableEmoji = false
     [languages.cs.menus]
       [[languages.cs.menus.main]]
         name = "Domů"
-        url = "/cs/"
+        url = "/"
         weight = 1
       [[languages.cs.menus.main]]
         name = "O mně"
-        url = "/cs/o-mne/"
+        url = "/o-mne/"
         weight = 2
       [[languages.cs.menus.main]]
         name = "Texty"
-        url = "/cs/texty/"
+        url = "/texty/"
         weight = 3
       [[languages.cs.menus.main]]
         name = "Knihy"
-        url = "/cs/knihy/"
+        url = "/knihy/"
         weight = 4
       [[languages.cs.menus.main]]
         name = "Hry"
-        url = "/cs/hry/"
+        url = "/hry/"
         weight = 5
       [[languages.cs.menus.main]]
         name = "Kočky"
-        url = "/cs/kocky/"
+        url = "/kocky/"
         weight = 6
 
   [languages.en]
@@ -56,27 +56,27 @@ enableEmoji = false
     [languages.en.menus]
       [[languages.en.menus.main]]
         name = "Home"
-        url = "/en/"
+        url = "/"
         weight = 1
       [[languages.en.menus.main]]
         name = "About"
-        url = "/en/about/"
+        url = "/about/"
         weight = 2
       [[languages.en.menus.main]]
         name = "Writing"
-        url = "/en/writing/"
+        url = "/writing/"
         weight = 3
       [[languages.en.menus.main]]
         name = "Books"
-        url = "/en/books/"
+        url = "/books/"
         weight = 4
       [[languages.en.menus.main]]
         name = "Games"
-        url = "/en/games/"
+        url = "/games/"
         weight = 5
       [[languages.en.menus.main]]
         name = "Cats"
-        url = "/en/cats/"
+        url = "/cats/"
         weight = 6
 
 [params]

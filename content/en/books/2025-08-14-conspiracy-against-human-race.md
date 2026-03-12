@@ -1,0 +1,40 @@
+---
+title: "Conspiracy Against Human Race"
+date: 2025-08-14
+slug: "conspiracy-against-human-race"
+draft: false
+---
+
+## 
+
+![](/images/2025/08/The_Conspiracy_Against_the_Human_Race-1.jpg)
+
+(cover of The Conspiracy Against The Human Race by Chris Mars)
+
+Thomas Ligotti’s *The Conspiracy Against the Human Race* (2010) occupies a singular space at the intersection of literary horror and philosophical pessimism. Subtitled *A Contrivance of Horror*, the work draws heavily on the thought of Peter Wessel Zapffe, Arthur Schopenhauer, Philipp Mainländer, and Emil Cioran, while presenting itself in the idiom of cosmic horror stripped of plot - because all of human existence is already full of terror, nothing makes sense and we inevitably die without any meaning. 
+
+Ligotti’s central claim is that consciousness is a tragic evolutionary misstep rendering human life “malignantly useless” and inherently full of suffering, because unlike animals, we realise all of the terror. This central claim is advanced not as a speculative exercise but as a near-axiomatic truth, which is partly reasoned, partly vibed by the author.
+
+### **Architecture of doom**
+
+Ligotti’s structure is indebted most directly to Zapffe’s essay “The Last Messiah,” which identifies the inevitable suffering of tragedy of consciousness and four coping mechanisms to deal with it. Isolation, Anchoring, Distraction, and Sublimation should be the primary ways by which humans mitigate the unbearable knowledge of their condition. *The Conspiracy* treats these as the primary psychological scaffolding of existence. Yet Ligotti’s intellectual architecture is highly selective. Philosophical counterpoints, particularly from existentialist traditions, are acknowledged but often caricatured. Albert Camus, for instance, receives only a passing and dismissive reference and also becomes a victim of a running bit of Ligotti saying “vehicular misadventure” (see, it is funny because it is a contrived way of saying “accident”). The Sisyphean embrace of meaning-making is ridiculed more as an aesthetic gesture than a substantive argument. This tendency strengthens the book’s alignment with horror literature where the voice of the narrator is sovereign but reduces its engagement as a philosophical disputation. 
+
+However, that is not so different from many other philosophical treaties that come with their own axioms and the reader is obviously able to choose the axioms they prefer. For anyone who spend some time reading different philosophers, there is also a very refreshing angle: Ligotti plainly calling “bullshit in many words” on the contrived, complicated structures that are not able to work with the basic truth of death. 
+
+The prose is consistent and deliberate, alternating between clinical exposition and atmospheric, deadpan morbidity. Repetition is a defining device, producing both rhetorical force and, at times, weariness, sometimes actually getting a bit obnoxious and juvenile, as in the repeated “bit” with recurring phrase of “vehicular misadventure.” This circularity mirrors the book’s thematic insistence but risks lapsing into self-parody. Ligotti’s diction and imagery firmly situate the text within the lineage of literary horror, recalling H. P. Lovecraft’s cosmic indifference but replacing fictional architecture with direct address. In this sense, *The Conspiracy* can be read as a new hybrid: a work of nonfiction cosmic horror. There is no need to contrast humanity with dead, dreaming cosmic forces: the empty and cold reality is enough to induce an existential vertigo.
+
+### **Stop suffering: stop being**
+
+The logical conclusion of Ligotti’s premise is an ethic of antinatalism, framed as the most peaceful and rational course toward the cessation of suffering. If non-existence possesses the same intrinsic value as existence, yet uniquely lacks suffering, then refraining from procreation emerges as the ethical imperative. Ligotti’s formulation thus resonates with David Benatar’s asymmetry argument, though with more literary than analytic rigor. The gesture is not toward militant activism but toward “quietly stopping”. A voluntary extinction enacted through the smallest unit of decision: not to create another consciousness. And of course with great sympathy towards different kinds of voluntary exit, from suicide to euthanasia and with great anger towards prolonging life in suffering.
+
+This position has been already made more popular: and compromised at the same time. While initially a niche text within horror and pessimistic philosophy circles, *The Conspiracy* entered broader cultural discourse through its influence on Nic Pizzolatto’s *True Detective* (2014), particularly in the characterization of Rust Cohle, with parts of the character´s dialogue lifted nearly verbatim from the book. This transposition into popular media underscores a paradox: Ligotti’s thought, while advocating disengagement from the world, has been refracted through a character whose actions still aim at harm reduction. The tension between metaphysical pessimism and practical ethics, between nihilism and the drive to alleviate suffering, is thus foregrounded in adaptation. We might be repulsed by Cohle or welcome his take, but the viewer is in the end assured that even Cohle gets up and stops a* bad actor* hurting people. This dance of motivations and dialogue between more optimistic and more pessimistic detective might be laden with Ligotti´s “everything is bleak and over” words, but the actions of characters then lead to striving against evil, actually trying to do things and the audience is spared the un-ending depression. The funny detective might be a little edgy, yes, but in the end he is still a hero. I would even say that *Conspiracy *gets *quoted*, but also partly subverted by True Detective (including the Lovecraftian references in the series).
+
+### **Plunging into depths**
+
+From a reflective standpoint, Ligotti’s thesis is internally coherent. One may grant the plausibility that humanity is an evolutionary overshoot burdened by suffering without inferring that the most rational course is cessation. And its honesty is charming and important and yes, the book proposes very reasonable outcomes in a reasonable way.
+
+My own orientation aligns with the existentialist counterpoint: the conscious choice to create and sustain meaning, however artificial, constitutes a more desirable, if no less contingent, strategy. Within Zapffe’s typology, Sublimation offers the richest mode of engagement, channeling the horror of existence into art, thought, and human connection. Still, some elements of Ligotti´s thought resonate strongly: from his interpretations of horror as a genre to critical approach to the question “should I bring a child to this world?”, including a strong understanding of all the *wrong *reasons to do this. From his point of view, all of them are wrong in some degree, but the reflection is definitely useful.
+
+Two elements retain lasting value beyond assent or dissent to Ligotti’s conclusions. First, the decoupling of survival from intrinsic moral worth invites rigorous re-examination of our assumptions about the sanctity of life, focusing instead on the prevention of suffering as a primary metric. Once again, I would mostly align with different kinds of thought, taking “quality years of life” as good in itself for example, but the counter point IS reasonable, even if not practical at all. Second, the text’s integration of horror-literary traditions with philosophical pessimism expands the frame within which both can be studied. *The Conspiracy Against the Human Race* thus merits attention not only as an idiosyncratic philosophical statement but also as a cultural artifact: a nonfiction horror work that presses the reader to consider whether the impulse to affirm life is itself merely another coping strategy.
+
+PS: from standpoint of 2025, it nearly feels necessary to say that there is no actual conspiracy full of conspiring people/ lizards in the backrooms of humanity. Just to be sure.

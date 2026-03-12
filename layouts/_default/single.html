@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="article-page">
+  {{ if eq .Language.Lang "cs" }}
+    <a href="{{ .CurrentSection.Permalink }}" class="back-link">← Zpět</a>
+  {{ else }}
+    <a href="{{ .CurrentSection.Permalink }}" class="back-link">← Back</a>
+  {{ end }}
+
+  <h1>{{ .Title }}</h1>
+
+  <div class="meta">
+    {{ .Date.Format "2. January 2006" }}
+    {{ if .IsTranslated }}
+      ·
+      {{ range .Translations }}
+        <a href="{{ .Permalink }}" style="color: var(--red);">{{ .Language.LanguageName }}</a>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <div class="article-body">
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}

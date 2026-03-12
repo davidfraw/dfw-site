@@ -1,0 +1,147 @@
+{{ define "main" }}
+<main>
+  {{/* Latest article as featured */}}
+  {{ $latest := first 1 (where .Site.RegularPages "Section" "ne" "" | lang.Merge (where .Site.RegularPages "Section" "ne" "")) }}
+  {{ $allPages := .Site.RegularPages }}
+  {{ if gt (len $allPages) 0 }}
+    {{ $first := index $allPages 0 }}
+    <div class="featured">
+      <a href="{{ $first.Permalink }}">
+        <span class="article-date">{{ $first.Date.Format "2. January 2006" }}</span>
+        <div class="article-title">{{ $first.Title }}</div>
+        <p class="article-desc">{{ $first.Summary | plainify | truncate 200 }}</p>
+      </a>
+    </div>
+  {{ end }}
+
+  {{/* Books / Knihy section */}}
+  {{ $booksSection := "" }}
+  {{ $booksLabel := "" }}
+  {{ $booksURL := "" }}
+  {{ if eq .Language.Lang "cs" }}
+    {{ $booksSection = "knihy" }}
+    {{ $booksLabel = "Knihy" }}
+    {{ $booksURL = "/knihy/" }}
+  {{ else }}
+    {{ $booksSection = "books" }}
+    {{ $booksLabel = "Books" }}
+    {{ $booksURL = "/books/" }}
+  {{ end }}
+  {{ $books := where .Site.RegularPages "Section" $booksSection }}
+  {{ if gt (len $books) 0 }}
+    <div class="section-header">
+      <h2>{{ $booksLabel }}</h2>
+      <a href="{{ relLangURL $booksURL }}">{{ if eq .Language.Lang "cs" }}vše →{{ else }}all →{{ end }}</a>
+    </div>
+    <div class="article-list">
+      {{ range first 4 $books }}
+        <div class="article-item">
+          <a href="{{ .Permalink }}">
+            <span class="article-date">{{ .Date.Format "Jan 2006" }}</span>
+            <div class="article-content">
+              <div class="article-title">{{ .Title }}</div>
+              <p class="article-desc">{{ .Summary | plainify | truncate 120 }}</p>
+            </div>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{/* Texty / Writing section */}}
+  {{ $writingSection := "" }}
+  {{ $writingLabel := "" }}
+  {{ $writingURL := "" }}
+  {{ if eq .Language.Lang "cs" }}
+    {{ $writingSection = "texty" }}
+    {{ $writingLabel = "Texty" }}
+    {{ $writingURL = "/texty/" }}
+  {{ else }}
+    {{ $writingSection = "writing" }}
+    {{ $writingLabel = "Writing" }}
+    {{ $writingURL = "/writing/" }}
+  {{ end }}
+  {{ $writing := where .Site.RegularPages "Section" $writingSection }}
+  {{ if gt (len $writing) 0 }}
+    <div class="section-header">
+      <h2>{{ $writingLabel }}</h2>
+      <a href="{{ relLangURL $writingURL }}">{{ if eq .Language.Lang "cs" }}vše →{{ else }}all →{{ end }}</a>
+    </div>
+    <div class="article-list">
+      {{ range first 4 $writing }}
+        <div class="article-item">
+          <a href="{{ .Permalink }}">
+            <span class="article-date">{{ .Date.Format "Jan 2006" }}</span>
+            <div class="article-content">
+              <div class="article-title">{{ .Title }}</div>
+              <p class="article-desc">{{ .Summary | plainify | truncate 120 }}</p>
+            </div>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{/* Hry / Games section */}}
+  {{ $gamesSection := "" }}
+  {{ $gamesLabel := "" }}
+  {{ $gamesURL := "" }}
+  {{ if eq .Language.Lang "cs" }}
+    {{ $gamesSection = "hry" }}
+    {{ $gamesLabel = "Hry" }}
+    {{ $gamesURL = "/hry/" }}
+  {{ else }}
+    {{ $gamesSection = "games" }}
+    {{ $gamesLabel = "Games" }}
+    {{ $gamesURL = "/games/" }}
+  {{ end }}
+  {{ $games := where .Site.RegularPages "Section" $gamesSection }}
+  {{ if gt (len $games) 0 }}
+    <div class="section-header">
+      <h2>{{ $gamesLabel }}</h2>
+      <a href="{{ relLangURL $gamesURL }}">{{ if eq .Language.Lang "cs" }}vše →{{ else }}all →{{ end }}</a>
+    </div>
+    <div class="article-list">
+      {{ range first 4 $games }}
+        <div class="article-item">
+          <a href="{{ .Permalink }}">
+            <span class="article-date">{{ .Date.Format "Jan 2006" }}</span>
+            <div class="article-content">
+              <div class="article-title">{{ .Title }}</div>
+              <p class="article-desc">{{ .Summary | plainify | truncate 120 }}</p>
+            </div>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{/* Kočky / Cats section */}}
+  {{ $catsSection := "" }}
+  {{ $catsLabel := "" }}
+  {{ $catsURL := "" }}
+  {{ if eq .Language.Lang "cs" }}
+    {{ $catsSection = "kocky" }}
+    {{ $catsLabel = "Kočky" }}
+    {{ $catsURL = "/kocky/" }}
+  {{ else }}
+    {{ $catsSection = "cats" }}
+    {{ $catsLabel = "Cats" }}
+    {{ $catsURL = "/cats/" }}
+  {{ end }}
+  {{ $cats := where .Site.RegularPages "Section" $catsSection }}
+  {{ if gt (len $cats) 0 }}
+    <div class="section-header">
+      <h2>{{ $catsLabel }}</h2>
+      <a href="{{ relLangURL $catsURL }}">{{ if eq .Language.Lang "cs" }}vše →{{ else }}all →{{ end }}</a>
+    </div>
+    <div class="cats-row">
+      {{ range $cats }}
+        <a href="{{ .Permalink }}" class="cat-chip">
+          <span>{{ .Title }}</span>
+        </a>
+      {{ end }}
+    </div>
+  {{ end }}
+</main>
+{{ end }}

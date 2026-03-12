@@ -1,0 +1,11 @@
+<footer>
+  <p>DFW.cz · David František Wagner · 2023–{{ now.Format "2006" }}</p>
+  <p style="margin-top: 0.4rem;">
+    <a href="{{ .Site.Home.Permalink }}index.xml">RSS</a> ·
+    {{ if eq .Language.Lang "cs" }}
+      <a href="{{ relLangURL "/o-mne/" }}">Kontakt</a>
+    {{ else }}
+      <a href="{{ relLangURL "/about/" }}">Contact</a>
+    {{ end }}
+  </p>
+</footer>

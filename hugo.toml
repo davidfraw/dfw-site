@@ -1,0 +1,87 @@
+baseURL = "https://dfw.cz/"
+title = "DFW.cz"
+defaultContentLanguage = "cs"
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+enableEmoji = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "github"
+
+[languages]
+  [languages.cs]
+    languageName = "CZ"
+    languageCode = "cs"
+    weight = 1
+    title = "DFW.cz"
+    [languages.cs.params]
+      description = "Blog Davida Františka Wagnera"
+    [languages.cs.menus]
+      [[languages.cs.menus.main]]
+        name = "Domů"
+        url = "/"
+        weight = 1
+      [[languages.cs.menus.main]]
+        name = "O mně"
+        url = "/o-mne/"
+        weight = 2
+      [[languages.cs.menus.main]]
+        name = "Texty"
+        url = "/texty/"
+        weight = 3
+      [[languages.cs.menus.main]]
+        name = "Knihy"
+        url = "/knihy/"
+        weight = 4
+      [[languages.cs.menus.main]]
+        name = "Hry"
+        url = "/hry/"
+        weight = 5
+      [[languages.cs.menus.main]]
+        name = "Kočky"
+        url = "/kocky/"
+        weight = 6
+
+  [languages.en]
+    languageName = "EN"
+    languageCode = "en"
+    weight = 2
+    title = "DFW.cz"
+    [languages.en.params]
+      description = "Blog of David František Wagner"
+    [languages.en.menus]
+      [[languages.en.menus.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+      [[languages.en.menus.main]]
+        name = "About"
+        url = "/about/"
+        weight = 2
+      [[languages.en.menus.main]]
+        name = "Writing"
+        url = "/writing/"
+        weight = 3
+      [[languages.en.menus.main]]
+        name = "Books"
+        url = "/books/"
+        weight = 4
+      [[languages.en.menus.main]]
+        name = "Games"
+        url = "/games/"
+        weight = 5
+      [[languages.en.menus.main]]
+        name = "Cats"
+        url = "/cats/"
+        weight = 6
+
+[params]
+  author = "David František Wagner"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]

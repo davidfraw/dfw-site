@@ -3,24 +3,16 @@
     <a href="{{ .Site.Home.Permalink }}" class="logo">DFW<span>.</span>cz</a>
     <nav>
       {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}"{{ if $.IsMenuCurrent "main" . }} class="active"{{ end }}>{{ .Name }}</a>
+        {{ $url := printf "/%s%s" $.Language.Lang .URL }}
+        <a href="{{ $url }}"{{ if $.IsMenuCurrent "main" . }} class="active"{{ end }}>{{ .Name }}</a>
       {{ end }}
       <div class="lang-switch">
-        {{ range .Site.Languages }}
-          {{ $langURL := "" }}
-          {{ if $.IsTranslated }}
-            {{ range $.Translations }}
-              {{ if eq .Language.Lang $.Language.Lang }}
-              {{ else }}
-                {{ $langURL = .Permalink }}
-              {{ end }}
-            {{ end }}
-          {{ end }}
-          {{ if eq .Lang $.Language.Lang }}
-            <a href="{{ $.Permalink }}" class="active-lang">{{ .LanguageName }}</a>
-          {{ else }}
-            <a href="{{ with $langURL }}{{ . }}{{ else }}/{{ .Lang }}/{{ end }}">{{ .LanguageName }}</a>
-          {{ end }}
+        {{ if eq $.Language.Lang "cs" }}
+          <a href="/cs/" class="active-lang">CZ</a>
+          <a href="/en/">EN</a>
+        {{ else }}
+          <a href="/cs/">CZ</a>
+          <a href="/en/" class="active-lang">EN</a>
         {{ end }}
       </div>
     </nav>

@@ -42,4 +42,4 @@ Naši přátelé připravili i dost obrázků s ním, pár jich zde přikládám
 
 ![Malba Guildensterna](/images/guildenstern/09-malba.jpg)
 
-<!-- Video: TODO - nahrát na YouTube a vložit odkaz -->
+{{< youtube 2UeDQQ8yB2c >}}

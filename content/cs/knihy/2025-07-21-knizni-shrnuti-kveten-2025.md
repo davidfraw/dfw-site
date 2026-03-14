@@ -3,6 +3,7 @@ title: "Knižní shrnutí - květen 2025"
 date: 2025-07-21
 slug: "knizni-shrnuti-kveten-2025"
 draft: false
+translationKey: "books-may-2025"
 ---
 
 Květen byl ve znamení příprav *Bitvy pod Horou*, uvádění *Requiemu* a poměrně intenzivní práce, včetně bezpečnostní konference v Kyjevě.

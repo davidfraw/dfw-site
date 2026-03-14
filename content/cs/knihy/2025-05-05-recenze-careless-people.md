@@ -3,6 +3,7 @@ title: "Recenze: Careless People"
 date: 2025-05-05
 slug: "recenze-careless-people"
 draft: false
+translationKey: "books-careless-people"
 ---
 
 ![](/images/2025/05/careless-people.jpg)

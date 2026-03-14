@@ -3,6 +3,7 @@ title: "Recenze: The Tech Coup"
 date: 2025-03-27
 slug: "recenze-the-tech-coup"
 draft: false
+translationKey: "books-tech-coup"
 ---
 
 ![](/images/2025/03/tech-coup-special.jpg)

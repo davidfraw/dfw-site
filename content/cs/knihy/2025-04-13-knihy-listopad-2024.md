@@ -3,6 +3,7 @@ title: "Knihy – listopad 2024"
 date: 2025-04-13
 slug: "knihy-listopad-2024"
 draft: false
+translationKey: "books-nov-2024"
 ---
 
 V listopadu jsem našel nový práce, požádal Kamilu o ruku (řekla ano na Hlavním nádraží bez svědků) a jako obvykle, četl knihy. 

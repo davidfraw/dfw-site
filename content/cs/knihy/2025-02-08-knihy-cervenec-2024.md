@@ -3,6 +3,7 @@ title: "Knihy – červenec 2024"
 date: 2025-02-08
 slug: "knihy-cervenec-2024"
 draft: false
+translationKey: "books-jul-2024"
 ---
 
 ![](/images/2025/02/kostel1.jpg)

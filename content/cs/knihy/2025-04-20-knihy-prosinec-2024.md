@@ -3,6 +3,7 @@ title: "Knihy – prosinec 2024"
 date: 2025-04-20
 slug: "knihy-prosinec-2024"
 draft: false
+translationKey: "books-dec-2024"
 ---
 
 Prosinec byl prvním měsícem zabydlování se v novém způsobu života. A také měsícem, který – díky naší téměř týden trvající silvestrovské oslavě – působil trochu kratší.

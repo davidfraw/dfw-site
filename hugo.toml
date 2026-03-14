@@ -25,10 +25,7 @@ enableEmoji = false
         name = "Domů"
         url = "/"
         weight = 1
-      [[languages.cs.menus.main]]
-        name = "O mně"
-        url = "/o-mne/"
-        weight = 2
+
       [[languages.cs.menus.main]]
         name = "Texty"
         url = "/texty/"
@@ -58,10 +55,6 @@ enableEmoji = false
         name = "Home"
         url = "/"
         weight = 1
-      [[languages.en.menus.main]]
-        name = "About"
-        url = "/about/"
-        weight = 2
       [[languages.en.menus.main]]
         name = "Writing"
         url = "/writing/"

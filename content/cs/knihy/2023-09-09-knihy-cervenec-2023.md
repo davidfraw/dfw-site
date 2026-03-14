@@ -3,6 +3,7 @@ title: "Knihy - červenec 2023"
 date: 2023-09-09
 slug: "knihy-cervenec-2023"
 draft: false
+translationKey: "knihy-cervenec-2023"
 ---
 
 Červenec byl poměrně rozmanitý.

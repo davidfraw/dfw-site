@@ -32,7 +32,7 @@ In his rivalry with Rosenkrantz, I was always more on Rosenkrantz's side, but de
 
 In February 2026, he was struck by a short, intense, and very unpleasant illness. Over the course of a single week, the vets wrote him off several times and then hope appeared. But ultimately, during his pre-surgery stay at the hospital, he experienced a rapid decline.
 
-When he was tiny, I sometimes had to feed him from a bottle and check that he was breathing properly. When he was leaving, I held his paw, scratched him, he purred and looked me in the eyes, even though he could barely breathe. Then his eyes widened one last time, his tongue came out, and he lost consciousness. He died doing what he loved most: cuddling and looking like a fool.
+When he was tiny, I sometimes had to feed him from a bottle and check that he was breathing properly. When he was leaving, I held his paw, scratched him, he purred and looked me in the eyes, even though he could barely breathe. Then his eyes widened one last time, his tongue came out, and he lost consciousness. He died 23.2. 2026 doing what he loved most: cuddling and looking like a fool. 
 
 Our friends also made quite a few artworks of him; I'm attaching some here.
 

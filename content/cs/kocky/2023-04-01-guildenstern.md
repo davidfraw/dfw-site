@@ -32,7 +32,7 @@ V rámci jeho soupeření s Rosenkrantzem jsem byl vždy víc na straně Rosenkr
 
 V únoru 2026 ho potkala krátká, intenzivní a velmi nepříjemná nemoc. V průběhu jediného týdne ho lékaři několikrát odepsali a pak se objevila naděje. Nakonec ale v průběhu předoperačního pobytu v nemocnici zažil rychlý propad stavu.
 
-Když byl malinkatý, musel jsem ho občas krmit z lahve a kontrolovat, že správně dýchá. Když odcházel, držel jsem ho za packu, drbal, on vrněl a díval se mi do očí, byť téměř nemohl dýchat. Pak se mu naposledy rozšířily oči, vyplázl jazyk a ztratil vědomí. Zemřel tak při tom, co nejvíc miloval: tulení a vypadání jako trouba.
+Když byl malinkatý, musel jsem ho občas krmit z lahve a kontrolovat, že správně dýchá. Když odcházel, držel jsem ho za packu, drbal, on vrněl a díval se mi do očí, byť téměř nemohl dýchat. Pak se mu naposledy rozšířily oči, vyplázl jazyk a ztratil vědomí. Zemřel 23.2. 2026 při tom, co nejvíc miloval: tulení a vypadání jako trouba.
 
 Naši přátelé připravili i dost obrázků s ním, pár jich zde přikládám.
 

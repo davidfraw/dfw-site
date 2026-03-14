@@ -3,6 +3,7 @@ title: "Chokepoints"
 date: 2025-05-12
 slug: "chokepoints"
 draft: false
+translationKey: "chokepoints"
 ---
 
 ![Chokepoints cover](/images/2025/05/213870122.jpg)

@@ -3,6 +3,7 @@ title: "Books in August 2025"
 date: 2025-12-12
 slug: "books-in-august-2025"
 draft: false
+translationKey: "books-aug-2025"
 ---
 
 I spent August teaching, vibing, working on a still secret project and most importantly: running 97 Poets of Revachol (poets.rolling.cz) again. And it was a great, even if tiring experience. Also, moving furniture around the hospital in Terezín meant that I managed to listen to quite a few books. The biggest surprise was Creative Historical thinking, the weirdest and most intense experience was Conspiracy Against Human Race. Overall the best would be probably Schelling with Arms and Influence.

@@ -3,6 +3,7 @@ title: "Book reviews – June 2024"
 date: 2025-02-08
 slug: "book-reviews-june-2024"
 draft: false
+translationKey: "books-jun-2024"
 ---
 
 ![](/images/2025/01/dawn1.jpg)

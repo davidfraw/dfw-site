@@ -3,6 +3,7 @@ title: "Original Sin - Hubris/ Age"
 date: 2025-05-23
 slug: "original-sin-hubris-age"
 draft: false
+translationKey: "original-sin"
 ---
 
 *The book presents a story that is more than obvious in hindsight:* that President Biden’s cognitive and physical decline was both visible and consequential, yet shielded from public reckoning by an inner circle more concerned with maintaining power than serving the public interest. While the reliance on anonymous sources makes definitive judgment difficult, the narrative aligns all too closely with the slow unraveling we all witnessed in real time, from stumbling around Normandy to being mentally absent in the key presidential discussion. And of course the awkward stage of “no, he is fine, it was just cold” and weeks of waiting for the new candidate.

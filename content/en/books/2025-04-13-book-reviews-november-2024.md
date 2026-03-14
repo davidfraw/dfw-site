@@ -3,6 +3,7 @@ title: "Book reviews – November 2024"
 date: 2025-04-13
 slug: "book-reviews-november-2024"
 draft: false
+translationKey: "books-nov-2024"
 ---
 
 In November, I found new jobs, proposed to Kamila (she said yes at the Main Train Station with no witnesses), and, as usual, read some books.

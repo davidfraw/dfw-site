@@ -3,6 +3,7 @@ title: "When Natasha Dances"
 date: 2025-05-21
 slug: "when-natasha-dances-review-of-orlando-figess-natashas-danc"
 draft: false
+translationKey: "natasha-dances"
 ---
 
 ![Natasha's Dance by Orlando Figes - Book Cover](/images/2025/05/97401.jpg)

@@ -3,6 +3,7 @@ title: "Book Review special: The Tech Coup"
 date: 2025-03-27
 slug: "book-review-special-the-tech-coup"
 draft: false
+translationKey: "books-tech-coup"
 ---
 
 ![](/images/2025/03/tech-coup-special.jpg)

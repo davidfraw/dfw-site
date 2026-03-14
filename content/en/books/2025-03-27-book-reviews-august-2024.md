@@ -3,6 +3,7 @@ title: "Book reviews – August 2024"
 date: 2025-03-27
 slug: "book-reviews-august-2024"
 draft: false
+translationKey: "books-aug-2024"
 ---
 
 Spent most of my August feverishly writing 97 Poets of Revachol, cramming in books between 12h writing shifts. Looking back, it was super tiring: but reading in every moment between writing made it manageable somehow.

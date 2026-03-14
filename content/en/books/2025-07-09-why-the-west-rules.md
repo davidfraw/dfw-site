@@ -3,6 +3,7 @@ title: "Why the West Rules?"
 date: 2025-07-09
 slug: "why-the-west-rules"
 draft: false
+translationKey: "why-west-rules"
 ---
 
 **Why the West Rules—For Now** by Ian Morris

@@ -3,6 +3,7 @@ title: "The Message"
 date: 2025-04-13
 slug: "the-message"
 draft: false
+translationKey: "the-message"
 ---
 
 ![](/images/2024/11/210943364.jpg)

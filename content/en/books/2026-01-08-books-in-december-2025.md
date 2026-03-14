@@ -3,6 +3,7 @@ title: "Books in December 2025"
 date: 2026-01-08
 slug: "books-in-december-2025"
 draft: false
+translationKey: "books-dec-2025"
 ---
 
 December! Time of celebrations, cats, the very special retreat with my closest people and other shenanigans.

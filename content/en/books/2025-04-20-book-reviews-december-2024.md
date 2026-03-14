@@ -3,6 +3,7 @@ title: "Book reviews – December 2024"
 date: 2025-04-20
 slug: "book-reviews-december-2024"
 draft: false
+translationKey: "books-dec-2024"
 ---
 
 December was the first month of settling down into a new way of life. And also a month, that feels, thanks to our nearly week long New Years Eve party, a bit shorter. 

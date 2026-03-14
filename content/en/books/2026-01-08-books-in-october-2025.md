@@ -3,6 +3,7 @@ title: "Books in October 2025"
 date: 2026-01-08
 slug: "books-in-october-2025"
 draft: false
+translationKey: "books-oct-2025"
 ---
 
 October was special. Managed to run [purges.rolling.cz](http://purges.rolling.cz) in both Czech and international versions, do lots of work and well, got married, hopefully for the final time. Good point to realise how blessed I am. Banger of the month was certainly Project Hail Mary, loved that one (not really looking forward to the movie due to the number of very weird choices they made in the PR).

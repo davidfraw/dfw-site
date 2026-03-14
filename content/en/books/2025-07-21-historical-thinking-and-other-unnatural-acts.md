@@ -3,6 +3,7 @@ title: "Historical Thinking and Other Unnatural Acts"
 date: 2025-07-21
 slug: "historical-thinking-and-other-unnatural-acts"
 draft: false
+translationKey: "historical-thinking"
 ---
 
 Sam Wineburg's *Historical Thinking and Other Unnatural Acts* is one of those rare books that attempt to reframe how we think about a whole discipline: and do not fall flat. 

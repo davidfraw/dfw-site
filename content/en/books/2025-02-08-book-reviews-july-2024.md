@@ -3,6 +3,7 @@ title: "Book reviews – July 2024"
 date: 2025-02-08
 slug: "book-reviews-july-2024"
 draft: false
+translationKey: "books-jul-2024"
 ---
 
 ![](/images/2025/02/kostel1.jpg)

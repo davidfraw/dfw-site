@@ -3,6 +3,7 @@ title: "Book reviews – October 2024"
 date: 2025-03-27
 slug: "book-reviews-october-2024"
 draft: false
+translationKey: "books-oct-2024"
 ---
 
 In one month, I managed to recover from Revachol, take a week-long trip to Albania, definitively part ways with the Pirate Party, and — yes, read some books.

@@ -3,6 +3,7 @@ title: "Book reviews – January 2025"
 date: 2025-05-04
 slug: "book-reviews-january-2025"
 draft: false
+translationKey: "books-jan-2025"
 ---
 
 January was mostly spent on pedagogy, a bit of everyday history / science and sneaking in a novel or two.

@@ -3,6 +3,7 @@ title: "Books for June-July 2025"
 date: 2025-12-12
 slug: "books-for-june-july-2025"
 draft: false
+translationKey: "books-jun-jul-2025"
 ---
 
 I spent June organising battles, running an intense experiential learning course with great people ([https://exp.camp/](https://exp.camp/)) and, well, working. I read just two books in June - so connecting June with July seems logical. Even if big part of July was spent at pair.camp, instructing, learning, walking around English countryside, I managed to do _some_ reading. After some thinking, Museum of Innocence and Self Compassion stick out as _interesting_.

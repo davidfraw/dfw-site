@@ -3,6 +3,7 @@ title: "Books in September 2025"
 date: 2026-01-08
 slug: "books-in-september-2025"
 draft: false
+translationKey: "books-sep-2025"
 ---
 
 September was good to me. Reasonable amounts of work, starting of the Pirate Academy, prepping the wedding and passing some exams in my doctoral studies. Nothing to complain about, reasonable time to read. Decided to re-read some classics (Kesey, Foucault) and found a lot of new value there. Rereading is now officially good.

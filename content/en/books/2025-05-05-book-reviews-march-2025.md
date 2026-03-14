@@ -3,6 +3,7 @@ title: "Book reviews – March 2025"
 date: 2025-05-05
 slug: "book-reviews-march-2025"
 draft: false
+translationKey: "books-mar-2025"
 ---
 
 Certainly one of the months with no specific highlights.

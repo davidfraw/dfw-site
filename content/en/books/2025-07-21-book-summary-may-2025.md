@@ -3,6 +3,7 @@ title: "Book summary - May 2025"
 date: 2025-07-21
 slug: "book-summary-may-2025"
 draft: false
+translationKey: "books-may-2025"
 ---
 
 ### **English**

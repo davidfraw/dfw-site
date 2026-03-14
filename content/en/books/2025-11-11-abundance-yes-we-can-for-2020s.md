@@ -3,6 +3,7 @@ title: "Abundance - Yes, We Can for 2020s"
 date: 2025-11-11
 slug: "abundance-yes-we-can-for-2020s"
 draft: false
+translationKey: "abundance"
 ---
 
 Abundance, but for whom?

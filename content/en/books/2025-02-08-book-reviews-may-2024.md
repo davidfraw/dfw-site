@@ -3,6 +3,7 @@ title: "Book reviews – May 2024"
 date: 2025-02-08
 slug: "book-reviews-may-2024"
 draft: false
+translationKey: "books-may-2024"
 ---
 
 ![](/images/2025/01/tim-alberta-1.jpg)

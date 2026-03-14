@@ -3,6 +3,7 @@ title: "Books in November 2025"
 date: 2026-01-08
 slug: "books-in-november-2025"
 draft: false
+translationKey: "books-nov-2025"
 ---
 
 Spent November partly on two episodes of honeymoon (Brno - Vienna - Mariánské Lázně), in Orlické hory, Hamburg and Norway, parts for work, parts for fun. That means plenty of time to read while travelling and longer reflections on books, especially the Caliban and the Witch. The thumbnail for the month comes from Norway.

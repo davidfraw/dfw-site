@@ -3,6 +3,7 @@ title: "Book reviews – April 2025"
 date: 2025-06-04
 slug: "book-reviews-april-2025"
 draft: false
+translationKey: "books-apr-2025"
 ---
 
 I don’t have much to say about April, except that the biggest flop was *Death’s End* (the final book in the trilogy starting with *The Three-Body Problem*), and the biggest banger was, completely unexpectedly, the essay collection on the border between music writing and reflections on life, *They Can’t Kill Us Until They Kill Us*. Which is one of those sentences you won’t read anywhere else but here – greetings to both of my fans.

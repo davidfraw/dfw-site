@@ -3,6 +3,7 @@ title: "Book reviews – September 2024"
 date: 2025-03-27
 slug: "book-reviews-september-2024"
 draft: false
+translationKey: "books-sep-2024"
 ---
 
 Ran 97 Poets of Revachol in September 2024, so all the reading happened on a bus or while setting up the location.

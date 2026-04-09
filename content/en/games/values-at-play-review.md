@@ -1,6 +1,6 @@
 ---
 title: "Values at Play in Digital Games"
-date: 2026-03-01
+date: 2026-04-09
 description: "Review of Mary Flanagan and Helen Nissenbaum's book on ethics and game design."
 categories: ["games"]
 tags: ["book review", "game design", "ethics"]

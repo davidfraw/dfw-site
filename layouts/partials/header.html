@@ -3,16 +3,15 @@
     <a href="{{ .Site.Home.Permalink }}" class="logo">DFW<span>.</span>cz</a>
     <nav>
       {{ range .Site.Menus.main }}
-        {{ $url := printf "/%s%s" $.Language.Lang .URL }}
-        <a href="{{ $url }}"{{ if $.IsMenuCurrent "main" . }} class="active"{{ end }}>{{ .Name }}</a>
+      <a href="{{ .URL | absLangURL }}"{{ if $.IsMenuCurrent "main" . }} class="active"{{ end }}>{{ .Name }}</a>
       {{ end }}
       <div class="lang-switch">
         {{ if eq $.Language.Lang "cs" }}
-          <a href="/cs/" class="active-lang">CZ</a>
-          <a href="/en/">EN</a>
+        <a href="/" class="active-lang">CZ</a>
+        <a href="/en/">EN</a>
         {{ else }}
-          <a href="/cs/">CZ</a>
-          <a href="/en/" class="active-lang">EN</a>
+        <a href="/">CZ</a>
+        <a href="/en/" class="active-lang">EN</a>
         {{ end }}
       </div>
     </nav>

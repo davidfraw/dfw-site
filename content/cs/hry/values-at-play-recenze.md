@@ -1,6 +1,6 @@
 ---
 title: "Values at Play in Digital Games"
-date: 2026-03-01
+date: 2026-04-09
 description: "Recenze knihy Mary Flanaganové a Helen Nissenbaumové o etice a herním designu."
 categories: ["hry"]
 tags: ["recenze", "herní design", "etika"]

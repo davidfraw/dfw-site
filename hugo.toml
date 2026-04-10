@@ -1,7 +1,7 @@
 baseURL = "/"
 title = "DFW.cz"
 defaultContentLanguage = "cs"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
 enableEmoji = false
 

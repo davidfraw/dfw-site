@@ -1,7 +1,7 @@
 baseURL = "/"
 title = "DFW.cz"
 defaultContentLanguage = "cs"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 enableEmoji = false
 
@@ -23,24 +23,24 @@ enableEmoji = false
     [languages.cs.menus]
       [[languages.cs.menus.main]]
         name = "Domů"
-        url = "/"
+        url = "/cs/"
         weight = 1
 
       [[languages.cs.menus.main]]
         name = "Texty"
-        url = "/texty/"
+        url = "/cs/texty/"
         weight = 3
       [[languages.cs.menus.main]]
         name = "Knihy"
-        url = "/knihy/"
+        url = "/cs/knihy/"
         weight = 4
       [[languages.cs.menus.main]]
         name = "Hry"
-        url = "/hry/"
+        url = "/cs/hry/"
         weight = 5
       [[languages.cs.menus.main]]
         name = "Kočky"
-        url = "/kocky/"
+        url = "/cs/kocky/"
         weight = 6
 
   [languages.en]
@@ -53,23 +53,23 @@ enableEmoji = false
     [languages.en.menus]
       [[languages.en.menus.main]]
         name = "Home"
-        url = "/"
+        url = "/en/"
         weight = 1
       [[languages.en.menus.main]]
         name = "Writing"
-        url = "/writing/"
+        url = "/en/writing/"
         weight = 3
       [[languages.en.menus.main]]
         name = "Books"
-        url = "/books/"
+        url = "/en/books/"
         weight = 4
       [[languages.en.menus.main]]
         name = "Games"
-        url = "/games/"
+        url = "/en/games/"
         weight = 5
       [[languages.en.menus.main]]
         name = "Cats"
-        url = "/cats/"
+        url = "/en/cats/"
         weight = 6
 
 [params]

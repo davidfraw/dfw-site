@@ -1,5 +1,5 @@
 ---
-title: "Clearing the Air: hopeful, ale ne hopium"
+title: "Clearing the Air: naděje v mezích mírného pokroku"
 date: 2026-04-30
 slug: "clearing-the-air"
 draft: false

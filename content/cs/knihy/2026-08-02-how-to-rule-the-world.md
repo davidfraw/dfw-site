@@ -1,6 +1,13 @@
 ---
-
-## Jak vládnout univerzitě a následně světu
+title: "Jak vládnout univerzitě a následně světu"
+date: 2026-08-02
+slug: "how-to-rule-the-world"
+draft: false
+description: "Recenze knihy Thea Bakera How to Rule the World o Stanfordu, novinařině a výrobě elit."
+categories: ["knihy"]
+tags: ["recenze", "novinařina", "univerzity"]
+translationKey: "how-to-rule-the-world"
+---
 
 *Theo Baker, How to Rule the World. Penguin Press, květen 2026\. Čteno v srpnu 2026\.*
 

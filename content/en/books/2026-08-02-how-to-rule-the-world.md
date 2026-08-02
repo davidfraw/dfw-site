@@ -1,5 +1,5 @@
 ---
-title: "How to Rule a University, and Then the World"
+title: "How to Rule an University, and Then the World"
 date: 2026-08-02
 slug: "how-to-rule-the-world"
 draft: false

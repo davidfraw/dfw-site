@@ -1,4 +1,13 @@
-# How to Rule the World — Theo Baker
+---
+title: "How to Rule a University, and Then the World"
+date: 2026-08-02
+slug: "how-to-rule-the-world"
+draft: false
+description: "Review of Theo Baker's How to Rule the World on Stanford, journalism and the making of elites."
+categories: ["books"]
+tags: ["book review", "journalism", "universities"]
+translationKey: "how-to-rule-the-world"
+---
 
 *Penguin Press, May 2026\. Read August 2026\.*
 
